@@ -4,4 +4,5 @@ SVD aims to predict the ratings while Copeland will aggregate the rankings based
 
 How to run the program
 1. clone the repo
-2. run main.ipynb
+2. install requirements.txt
+3. run main.ipynb
